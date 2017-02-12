@@ -12,10 +12,6 @@
   ],
   "homepage": "https://github.com/VanishingDante/MarkdownCSS",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "./!(markdown.css)"
   ]
 }
