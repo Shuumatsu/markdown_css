@@ -4,7 +4,8 @@
   "description": "stylesheets to make generated markdown, or raw HTML, look beautiful",
   "main": "markdown.css",
   "scripts": {
-    "bower": "bower register markdown-beautifier-css https://github.com/VanishingDante/MarkdownCSS.git"
+    "register": "bower register markdown-beautifier-css https://github.com/VanishingDante/MarkdownCSS.git",
+    "unregister": "bower unregister markdown-beautifier-css https://github.com/VanishingDante/MarkdownCSS.git"
   },
   "repository": {
     "type": "git",
