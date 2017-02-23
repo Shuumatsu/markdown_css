@@ -1,6 +1,6 @@
 body {
-  color: #444;
-  font-family: 'Open Sans', Helvetica, sans-serif;
+  color: #212121;
+  font-family: 'Open Sans', Arial, 'Hiragino Sans GB', 'Helvetica Neue', 'Helvetica', 'Microsoft YaHei', '微软雅黑', sans-serif;
   font-weight: 300;
   margin: 6rem auto 1rem;
   max-width: 48rem;
@@ -20,8 +20,8 @@ img {
 }
 
 a, a:visited {
-  color: #3498db;
   text-decoration: none;
+  color: #3498db;
 }
 
 a:hover, a:focus, a:active {
@@ -32,6 +32,7 @@ pre {
   background-color: #fafafa;
   padding: 1rem;
   text-align: left;
+  overflow: auto;
 }
 
 blockquote {
