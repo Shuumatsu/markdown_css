@@ -1,6 +1,6 @@
 {
   "name": "markdown-beautifier-css",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "stylesheets to make generated markdown, or raw HTML, look beautiful",
   "main": "markdown.css",
   "scripts": {
