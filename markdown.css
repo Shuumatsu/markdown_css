@@ -1,5 +1,5 @@
 body {
-  color: #212121;
+  color: #777;
   font-family: 'Open Sans', Arial, 'Hiragino Sans GB', 'Helvetica Neue', 'Helvetica', 'Microsoft YaHei', '微软雅黑', sans-serif;
   font-weight: 300;
   margin: 6rem auto 1rem;
@@ -21,11 +21,11 @@ img {
 
 a, a:visited {
   text-decoration: none;
-  color: #3498db;
+  color: #6c5890;
 }
 
 a:hover, a:focus, a:active {
-  color: #2980b9;
+  color: #6c5890;
 }
 
 pre {
@@ -48,5 +48,5 @@ ul, ol, li {
 }
 
 p {
-  color: #777;
+  color: #212121;
 }
